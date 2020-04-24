@@ -1,0 +1,60 @@
+.current-status-heading, .Homepage-heading {
+    text-align: center;
+    color: rgb(248, 18, 87);
+    font-weight: 900;
+}
+
+.Homepage-heading {
+    font-size: 4vw;
+    -webkit-font-feature-settings: "pcap";
+    font-feature-settings: "pcap";
+    font-variant: petite-caps;
+}
+
+.ChangePassword-from-div {
+    max-width: 552px;
+    width: 100%;
+    min-height: auto;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.AdminLogin-form {
+    padding: 0 30px;
+}
+
+.alert-passchanged, .ChangePassword-from-div .AdminLogin-text-light-green {
+    color: rgb(248, 18, 87);
+}
+
+.ChangePassword-from-div .AdminLogin-submit-button, .ChangePassword-from-div .form-control {
+    background-color: #f4f3ef!important;
+}
+
+.alert-passchanged, .ChangePassword-from-div .AdminLogin-text-light-green {
+    color: rgb(248, 18, 87);
+}
+.ChangePassword-from-div .AdminLogin-submit-button {
+    color: rgb(248, 18, 87);
+    border: 1px solid rgb(248, 18, 87);
+}
+.AdminLogin-submit-button {
+    margin-top: 27px;
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border-radius: 100px;
+    color: rgb(248, 18, 87);
+    border: 1px solid rgb(248, 18, 87);
+    display: block;
+    cursor: pointer;
+    -webkit-transition: .5s;
+    transition: .5s;
+    font-weight: 700;
+    outline-style: none!important;
+    background-color: #fff;
+}
+.AdminLogin-m-r-l {
+    margin: 0 auto;
+}

@@ -1,0 +1,30 @@
+
+.AdminLogin-submit-button {
+    margin-top: 27px;
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border-radius: 100px;
+    color: #ec3136;
+    border: 1px solid #ec3136;
+    display: block;
+    cursor: pointer;
+    -webkit-transition: .5s;
+    transition: .5s;
+    font-weight: 700;
+    outline-style: none!important;
+    background-color: #fff;
+}
+
+
+.AdminLogin-submit-button:hover {
+    
+    color: white;
+    border: 1px solid #ec3136;
+    
+    background-color: #ec3136;
+}
+body{
+    background-color: #f8f9fa!important; 
+}
