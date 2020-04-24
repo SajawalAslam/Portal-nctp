@@ -1,10 +1,10 @@
 .enroll-logo{
-    height: 65px !important;
-    width: 50px !important;
+    height: 50px !important;
+    width: 43px !important;
 }
 .profile{
-    height: 50px !important;
-    width: 50px !important;
+    height: 43px !important;
+    width: 43px !important;
     border-radius: 100%;
     overflow: hidden;
 }
@@ -115,8 +115,9 @@ body {
     color: black !important;
   }
   .nav-text{
-    color:rgba(235, 79, 18, 0.342);
-    font-size: 30px;
+    color:rgba(235, 80, 18, 0.191);
+    font-size: 25px;
+    font-weight: bold;
   }
   @media(max-width:1024px){
     .nav-text{
@@ -147,4 +148,9 @@ body {
   @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
+  }
+  .imgParent{
+    background-color: #ed3238e8 !important;
+    padding-left: 20px;
+    padding-right: 22px;
   }

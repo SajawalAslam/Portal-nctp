@@ -28,8 +28,8 @@ export default class Enrolnav extends Component {
  render() {
     return (
         <div >
-            <nav className="d-flex justify-content-between  pl-3 pb-2 pr-3" >
-              <img class="enroll-logo " src={logo} alt="NCTP LOGIN PORTAL LOGO" />
+            <nav className="d-flex justify-content-between    pr-3" >
+              <div className="imgParent pt-2"><img class="enroll-logo " src={logo} alt="NCTP LOGIN PORTAL LOGO" /></div>
               <div className="nav-text mt-3">
                 <p>CM INITIATIVE FOR NATINAL CYBER TRAINING PROGRAM ( NCTP )</p>
               </div>
